@@ -1,0 +1,19 @@
+body{
+    background-color: #fee3e5;
+    color: black;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+#trends{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.btn{
+    margin: 5 5px;
+    padding: 5 5px;
+}
